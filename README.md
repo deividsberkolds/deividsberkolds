@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @deividsberkolds
+- 👀 I’m interested in front end technologies like React, Angular, Typescript, ES6, Bootstrap and a lot more 
+- 🌱 I’m currently learning Angular and a lot of other things which are still not clear to me after 3 years of development
+- 💞️ I’m looking to collaborate on not sure what yet :D
+- 📫 How to reach me here
